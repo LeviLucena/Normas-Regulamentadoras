@@ -23,7 +23,7 @@ Instalação Local com uso do VSCODE
 
 1. Clone do Repositório
 ```
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/LeviLucena/Normas-Regulamentadoras.git
 cd <diretorio_do_repositorio>
 ```
 
