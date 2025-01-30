@@ -6,17 +6,17 @@ Este projeto visa criar uma aplicação web que integra normas regulamentadoras 
 ![image](https://github.com/user-attachments/assets/23197952-6893-41e7-bfee-f6280743f124)
 
 ## Tecnologias Utilizadas
-Flask: Framework web para Python.
-OpenAI API: Usada para análise inteligente e sugestões baseadas em IA.
-HTML/CSS: Para a estruturação e estilização da interface de usuário.
-Bootstrap: Framework CSS para criar um design responsivo e moderno.
-JavaScript: Para interação com o usuário e integração com a API.
+- Flask: Framework web para Python.
+- OpenAI API: Usada para análise inteligente e sugestões baseadas em IA.
+- HTML/CSS: Para a estruturação e estilização da interface de usuário.
+- Bootstrap: Framework CSS par- a criar um design responsivo e moderno.
+- JavaScript: Para interação com o usuário e integração com a API.
 
 ## Funcionalidades
-Seleção de Norma: O usuário pode escolher uma norma da lista de normas, como ISO 9001, ISO 14001, ISO 45001, entre outras.
-Descrição do Contexto Organizacional: O usuário pode fornecer informações sobre a organização, como setor, tamanho e desafios enfrentados.
-Análise de Conformidade com IA: A partir das informações fornecidas, o sistema usa a API da OpenAI para gerar uma análise detalhada sobre o estado de conformidade da organização com os requisitos da norma selecionada. O sistema identifica lacunas de conformidade e sugere melhorias.
-Interface Intuitiva: A interface é projetada para ser simples e interativa, com feedbacks claros para o usuário e possibilidade de visualizar as sugestões de forma organizada.
+- Seleção de Norma: O usuário pode escolher uma norma da lista de normas, como ISO 9001, ISO 14001, ISO 45001, entre outras.
+- Descrição do Contexto Organizacional: O usuário pode fornecer informações sobre a organização, como setor, tamanho e desafios enfrentados.
+- Análise de Conformidade com IA: A partir das informações fornecidas, o sistema usa a API da OpenAI para gerar uma análise detalhada sobre o estado de conformidade da organização com os requisitos da norma selecionada. O sistema identifica lacunas de conformidade e sugere melhorias.
+- Interface Intuitiva: A interface é projetada para ser simples e interativa, com feedbacks claros para o usuário e possibilidade de visualizar as sugestões de forma organizada.
 
 ### Como Usar
 Instalação Local com uso do VSCODE
