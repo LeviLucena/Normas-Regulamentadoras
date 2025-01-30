@@ -19,7 +19,7 @@ Este projeto visa criar uma aplicação web que integra normas regulamentadoras 
 - **Interface Intuitiva:** A interface é projetada para ser simples e interativa, com feedbacks claros para o usuário e possibilidade de visualizar as sugestões de forma organizada.
 
 ### Como Usar
-Instalação Local com uso do VSCODE
+Instalação Local
 
 1. Clone do Repositório
 ```
